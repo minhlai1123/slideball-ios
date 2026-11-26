@@ -20,3 +20,8 @@ Packages/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Binary packages & archives
+*.ipa
+Payload/
+*.zip
